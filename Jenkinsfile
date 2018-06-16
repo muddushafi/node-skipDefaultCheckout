@@ -1,5 +1,5 @@
 node {
-        skipDefaultCheckout()
+        //skipDefaultCheckout()
 
 		echo 'Hello World'
 }

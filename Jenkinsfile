@@ -1,5 +1,7 @@
 node {
         //skipDefaultCheckout()
 
-		echo 'Hello World 1'
+		stage('Build'){		
+			echo 'Hello World 1'
+		}
 }
